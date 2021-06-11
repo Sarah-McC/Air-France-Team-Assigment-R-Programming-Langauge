@@ -454,8 +454,6 @@ Comparing the performance of the logistic regression model and the gini tree, it
 
 
 # Conclusion MISSING
-- Repeat mission
-- Repeat results for both goals
 - Finally, only the logistic regression model and the gini tree model have been facilitated in the search of the best machine learning model to predict both business goals. Further analysis could include other models such as X and Z that could potentially outperform the two models of this analysis. 
 
 
